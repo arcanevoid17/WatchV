@@ -23,7 +23,7 @@ input {
 
 input:focus {
   border: black solid 0.2vw;
-  box-shadow: rgba(2, 255, 242, 0.596) 0vw 0vw 1.6vw 0.2vw;
+  box-shadow: #9b0ea8 0vw 0vw 1.6vw 0.2vw;
 }
 
 
@@ -41,8 +41,8 @@ button {
 button:hover {
   color: #000000;
   font-weight: bold;
-  background-color: rgb(0, 247, 255);
-  box-shadow: rgba(2, 255, 242, 0.596) 0vw 0vw 1.6vw 0.2vw;
+  background-color: #9b0ea8;
+  box-shadow: #9b0ea8 0vw 0vw 1.6vw 0.2vw;
 }
 
 #results {
@@ -94,15 +94,15 @@ button:hover {
 }
 
 .result .info h3:hover {
-  color: #39cdbc;
+  color: #9b0ea8;
   font-weight: bold;
-  text-shadow: #39cdbc 0px 0vw 5vw;
+  text-shadow: #9b0ea8 0px 0vw 5vw;
 }
 
 .hoverClass .info h3 {
-  color: #39cdbc;
+  color: #9b0ea8;
   font-weight: bold;
-  text-shadow: #39cdbc 0px 0vw 5vw;
+  text-shadow: #9b0ea8 0px 0vw 5vw;
 }
 
 .result .info p {
@@ -112,15 +112,15 @@ button:hover {
 }
 
 .result .info p:hover {
-  color: rgb(90, 212, 192);
+  color: #9b0ea8;
   font-weight: 500;
-  text-shadow: #8fe6db 0px 0vw 5vw;
+  text-shadow: #9b0ea8 0px 0vw 5vw;
 }
 
 .hoverClass .info p {
-  color: rgb(90, 212, 192);
+  color:#9b0ea8;
   font-weight: 500;
-  text-shadow: #8fe6db 0px 0vw 5vw;
+  text-shadow: #9b0ea8 0px 0vw 5vw;
 }
 
 a {
@@ -147,13 +147,13 @@ a {
 }
 
 .episodes:hover {
-  background-color: #39cdbc;
+  background-color: #9b0ea8;
   color: #ffffff;
   font-weight: bold;
 }
 
 .selected {
-  background-color: #39cdbc;
+  background-color: #9b0ea8;
   color: #ffffff;
   font-weight: bold;
 }
@@ -197,7 +197,7 @@ iframe {
 }
 
 .information p {
-  color: #39cdbc;
+  color: #9b0ea8;
   font-size: 2vw;
   font-weight: 700;
 }
@@ -205,7 +205,7 @@ iframe {
 h2 {
   font-size: 3vw;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: aqua;
+  color: #9b0ea8;
 }
 
 h3 {
@@ -221,14 +221,14 @@ li {
 }
 
 .information a:hover {
-  color: rgb(0, 225, 255) !important;
+  color: #9b0ea8 !important;
 }
 
 .pagelinks a {
   margin: 1vw;
   font-size: x-large;
   font-weight: 500;
-  color: #00b7ff !important;
+  color: #9b0ea8 !important;
   font-weight: bolder;
   text-decoration: underline;
 }
