@@ -285,7 +285,7 @@ function setVideo(element) {
   // setting page title
 
   if (element.getAttribute("title") !== "") {
-    document.title = element.getAttribute("VOID HUB");
+    document.title = element.getAttribute("title");
   }
 
   // highlight selected webseries episode
